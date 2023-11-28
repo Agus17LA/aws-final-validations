@@ -1,0 +1,13 @@
+com\awsfinal\awsfinalvalidations\utils\UserFormatter.class
+com\awsfinal\awsfinalvalidations\exceptions\InvalidDateFormatException.class
+com\awsfinal\awsfinalvalidations\DTOs\Profession.class
+com\awsfinal\awsfinalvalidations\AwsFinalValidationsApplication.class
+com\awsfinal\awsfinalvalidations\exceptions\ParamException.class
+com\awsfinal\awsfinalvalidations\services\UserService.class
+com\awsfinal\awsfinalvalidations\exceptions\InvalidPhoneNumberException.class
+com\awsfinal\awsfinalvalidations\exceptions\GlobalExceptionHandler.class
+com\awsfinal\awsfinalvalidations\exceptions\InvalidEmailException.class
+com\awsfinal\awsfinalvalidations\client\RestClient.class
+com\awsfinal\awsfinalvalidations\controllers\UserController.class
+com\awsfinal\awsfinalvalidations\DTOs\UserDTO.class
+com\awsfinal\awsfinalvalidations\utils\DateUtils.class
